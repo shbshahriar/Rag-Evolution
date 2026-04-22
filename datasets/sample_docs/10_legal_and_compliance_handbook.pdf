@@ -1,0 +1,1334 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 13 /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1196 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(LEGAL AND COMPLIANCE HANDBOOK) Tj
+T*
+T*
+(Introduction) Tj
+T*
+T*
+(Legal and compliance documents describe obligations, rights, restrictions, and) Tj
+T*
+(organizational policies. They are common in enterprises, regulated industries, and) Tj
+T*
+(internal governance systems.) Tj
+T*
+T*
+(This sample document uses general language and does not provide legal advice.) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(1. Key Legal Concepts) Tj
+T*
+T*
+(- **Contract**: A legally enforceable agreement) Tj
+T*
+T*
+(- **Liability**: Legal responsibility for harm or loss) Tj
+T*
+T*
+(- **Jurisdiction**: The authority of a court or regulator) Tj
+T*
+T*
+(- **Indemnity**: Protection against certain losses) Tj
+T*
+T*
+(- **Breach**: Failure to meet a legal or contractual obligation) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(2. Compliance Programs) Tj
+T*
+T*
+(Organizations create compliance programs to reduce legal and operational risk. A) Tj
+T*
+(standard program may include:) Tj
+T*
+T*
+(- Policies and procedures) Tj
+T*
+T*
+(- Employee training) Tj
+T*
+T*
+(- Internal audits) Tj
+T*
+T*
+(- Incident reporting) Tj
+T*
+T*
+(- Vendor reviews) Tj
+T*
+T*
+(- Record retention rules) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(3. Data Protection) Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 1029 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+T*
+(Privacy and security requirements often cover:) Tj
+T*
+T*
+(- Collection limits) Tj
+T*
+T*
+(- Consent) Tj
+T*
+T*
+(- Data minimization) Tj
+T*
+T*
+(- Access controls) Tj
+T*
+T*
+(- Retention periods) Tj
+T*
+T*
+(- Breach notification) Tj
+T*
+T*
+(Common regulatory themes include protecting personal information and documenting how it) Tj
+T*
+(is used.) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(4. Contract Lifecycle) Tj
+T*
+T*
+(Typical contract stages:) Tj
+T*
+T*
+(1. Drafting 2. Review 3. Negotiation 4. Approval 5. Signature 6. Performance 7. Renewal) Tj
+T*
+(or termination) Tj
+T*
+T*
+(Each stage creates different risks and responsibilities.) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(5. Internal Governance) Tj
+T*
+T*
+(Many organizations maintain governance documents for:) Tj
+T*
+T*
+(- Code of conduct) Tj
+T*
+T*
+(- Anti-bribery rules) Tj
+T*
+T*
+(- Procurement standards) Tj
+T*
+T*
+(- Conflict of interest disclosures) Tj
+T*
+T*
+(- Whistleblower reporting) Tj
+T*
+T*
+(These policies are often referenced during audits and investigations.) Tj
+T*
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 3529 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+T*
+(---) Tj
+T*
+T*
+(Conclusion) Tj
+T*
+T*
+(Legal and compliance content is useful for RAG because it is terminology-heavy,) Tj
+T*
+(structured, and often requires precise retrieval. It is ideal for testing how well a) Tj
+T*
+(system handles formal wording and policy language.) Tj
+T*
+T*
+(Extended Reference Appendix) Tj
+T*
+T*
+(Legal and Compliance Handbook Practice Note 1) Tj
+T*
+T*
+(A strong treatment of Legal and Compliance Handbook should connect the core idea to) Tj
+T*
+(contracts, because readers need both the definition and the working context. In a) Tj
+T*
+(retrieval setting, this topic should explain what the concept is, why it matters, how it) Tj
+T*
+(is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how contracts changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Legal and Compliance Handbook, they often want examples,) Tj
+T*
+(exceptions, recommended checks, and the common misconceptions to avoid. Good coverage) Tj
+T*
+(answers these follow-ups in a calm, structured way so the content feels complete without) Tj
+T*
+(becoming hard to navigate. In many knowledge bases, the best content is the content that) Tj
+T*
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 4107 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(can be chunked cleanly. Short descriptive paragraphs, explicit headings, and repeated) Tj
+T*
+(vocabulary help produce retrieval-friendly segments. This appendix therefore uses a) Tj
+T*
+(stable structure on purpose: it gives the system repeated opportunities to see the topic) Tj
+T*
+(name, the associated theme, and the kinds of explanatory phrases that usually belong) Tj
+T*
+(together. When the document is read by a human, the repetition still has a purpose. It) Tj
+T*
+(reinforces the central concept from different perspectives and makes it easier to skim) Tj
+T*
+(for a needed answer. When the document is read by a model, the repetition creates) Tj
+T*
+(stronger anchor points for semantic similarity and better grounding across nearby) Tj
+T*
+(passages. The overall principle is simple: describe the idea clearly, place it in a) Tj
+T*
+(realistic context, show how it is used, and explain the cautions that matter most. That) Tj
+T*
+(pattern works for technical topics, business topics, policy topics, and educational) Tj
+T*
+(topics alike. It is also one of the most reliable ways to build a dataset that feels) Tj
+T*
+(broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Legal and Compliance Handbook Practice Note 2) Tj
+T*
+T*
+(A strong treatment of Legal and Compliance Handbook should connect the core idea to) Tj
+T*
+(privacy, because readers need both the definition and the working context. In a) Tj
+T*
+(retrieval setting, this topic should explain what the concept is, why it matters, how it) Tj
+T*
+(is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how privacy changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Legal and Compliance Handbook, they often want examples,) Tj
+T*
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 4113 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(exceptions, recommended checks, and the common misconceptions to avoid. Good coverage) Tj
+T*
+(answers these follow-ups in a calm, structured way so the content feels complete without) Tj
+T*
+(becoming hard to navigate. In many knowledge bases, the best content is the content that) Tj
+T*
+(can be chunked cleanly. Short descriptive paragraphs, explicit headings, and repeated) Tj
+T*
+(vocabulary help produce retrieval-friendly segments. This appendix therefore uses a) Tj
+T*
+(stable structure on purpose: it gives the system repeated opportunities to see the topic) Tj
+T*
+(name, the associated theme, and the kinds of explanatory phrases that usually belong) Tj
+T*
+(together. When the document is read by a human, the repetition still has a purpose. It) Tj
+T*
+(reinforces the central concept from different perspectives and makes it easier to skim) Tj
+T*
+(for a needed answer. When the document is read by a model, the repetition creates) Tj
+T*
+(stronger anchor points for semantic similarity and better grounding across nearby) Tj
+T*
+(passages. The overall principle is simple: describe the idea clearly, place it in a) Tj
+T*
+(realistic context, show how it is used, and explain the cautions that matter most. That) Tj
+T*
+(pattern works for technical topics, business topics, policy topics, and educational) Tj
+T*
+(topics alike. It is also one of the most reliable ways to build a dataset that feels) Tj
+T*
+(broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Legal and Compliance Handbook Practice Note 3) Tj
+T*
+T*
+(A strong treatment of Legal and Compliance Handbook should connect the core idea to) Tj
+T*
+(governance, because readers need both the definition and the working context. In a) Tj
+T*
+(retrieval setting, this topic should explain what the concept is, why it matters, how it) Tj
+T*
+(is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how governance changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 15 0 R >>
+endobj
+15 0 obj
+<< /Length 4109 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Legal and Compliance Handbook, they often want examples,) Tj
+T*
+(exceptions, recommended checks, and the common misconceptions to avoid. Good coverage) Tj
+T*
+(answers these follow-ups in a calm, structured way so the content feels complete without) Tj
+T*
+(becoming hard to navigate. In many knowledge bases, the best content is the content that) Tj
+T*
+(can be chunked cleanly. Short descriptive paragraphs, explicit headings, and repeated) Tj
+T*
+(vocabulary help produce retrieval-friendly segments. This appendix therefore uses a) Tj
+T*
+(stable structure on purpose: it gives the system repeated opportunities to see the topic) Tj
+T*
+(name, the associated theme, and the kinds of explanatory phrases that usually belong) Tj
+T*
+(together. When the document is read by a human, the repetition still has a purpose. It) Tj
+T*
+(reinforces the central concept from different perspectives and makes it easier to skim) Tj
+T*
+(for a needed answer. When the document is read by a model, the repetition creates) Tj
+T*
+(stronger anchor points for semantic similarity and better grounding across nearby) Tj
+T*
+(passages. The overall principle is simple: describe the idea clearly, place it in a) Tj
+T*
+(realistic context, show how it is used, and explain the cautions that matter most. That) Tj
+T*
+(pattern works for technical topics, business topics, policy topics, and educational) Tj
+T*
+(topics alike. It is also one of the most reliable ways to build a dataset that feels) Tj
+T*
+(broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Legal and Compliance Handbook Practice Note 4) Tj
+T*
+T*
+(A strong treatment of Legal and Compliance Handbook should connect the core idea to) Tj
+T*
+(audit, because readers need both the definition and the working context. In a retrieval) Tj
+T*
+(setting, this topic should explain what the concept is, why it matters, how it is used,) Tj
+T*
+(and what questions usually follow in real work. The best documents make the path from) Tj
+T*
+(overview to detail feel obvious, so the reader can move from general meaning to) Tj
+T*
+(practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how audit changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 17 0 R >>
+endobj
+17 0 obj
+<< /Length 4114 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Legal and Compliance Handbook, they often want examples,) Tj
+T*
+(exceptions, recommended checks, and the common misconceptions to avoid. Good coverage) Tj
+T*
+(answers these follow-ups in a calm, structured way so the content feels complete without) Tj
+T*
+(becoming hard to navigate. In many knowledge bases, the best content is the content that) Tj
+T*
+(can be chunked cleanly. Short descriptive paragraphs, explicit headings, and repeated) Tj
+T*
+(vocabulary help produce retrieval-friendly segments. This appendix therefore uses a) Tj
+T*
+(stable structure on purpose: it gives the system repeated opportunities to see the topic) Tj
+T*
+(name, the associated theme, and the kinds of explanatory phrases that usually belong) Tj
+T*
+(together. When the document is read by a human, the repetition still has a purpose. It) Tj
+T*
+(reinforces the central concept from different perspectives and makes it easier to skim) Tj
+T*
+(for a needed answer. When the document is read by a model, the repetition creates) Tj
+T*
+(stronger anchor points for semantic similarity and better grounding across nearby) Tj
+T*
+(passages. The overall principle is simple: describe the idea clearly, place it in a) Tj
+T*
+(realistic context, show how it is used, and explain the cautions that matter most. That) Tj
+T*
+(pattern works for technical topics, business topics, policy topics, and educational) Tj
+T*
+(topics alike. It is also one of the most reliable ways to build a dataset that feels) Tj
+T*
+(broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Legal and Compliance Handbook Practice Note 5) Tj
+T*
+T*
+(A strong treatment of Legal and Compliance Handbook should connect the core idea to) Tj
+T*
+(retention, because readers need both the definition and the working context. In a) Tj
+T*
+(retrieval setting, this topic should explain what the concept is, why it matters, how it) Tj
+T*
+(is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how retention changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 19 0 R >>
+endobj
+19 0 obj
+<< /Length 4123 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Legal and Compliance Handbook, they often want examples,) Tj
+T*
+(exceptions, recommended checks, and the common misconceptions to avoid. Good coverage) Tj
+T*
+(answers these follow-ups in a calm, structured way so the content feels complete without) Tj
+T*
+(becoming hard to navigate. In many knowledge bases, the best content is the content that) Tj
+T*
+(can be chunked cleanly. Short descriptive paragraphs, explicit headings, and repeated) Tj
+T*
+(vocabulary help produce retrieval-friendly segments. This appendix therefore uses a) Tj
+T*
+(stable structure on purpose: it gives the system repeated opportunities to see the topic) Tj
+T*
+(name, the associated theme, and the kinds of explanatory phrases that usually belong) Tj
+T*
+(together. When the document is read by a human, the repetition still has a purpose. It) Tj
+T*
+(reinforces the central concept from different perspectives and makes it easier to skim) Tj
+T*
+(for a needed answer. When the document is read by a model, the repetition creates) Tj
+T*
+(stronger anchor points for semantic similarity and better grounding across nearby) Tj
+T*
+(passages. The overall principle is simple: describe the idea clearly, place it in a) Tj
+T*
+(realistic context, show how it is used, and explain the cautions that matter most. That) Tj
+T*
+(pattern works for technical topics, business topics, policy topics, and educational) Tj
+T*
+(topics alike. It is also one of the most reliable ways to build a dataset that feels) Tj
+T*
+(broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Legal and Compliance Handbook Practice Note 6) Tj
+T*
+T*
+(A strong treatment of Legal and Compliance Handbook should connect the core idea to risk) Tj
+T*
+(management, because readers need both the definition and the working context. In a) Tj
+T*
+(retrieval setting, this topic should explain what the concept is, why it matters, how it) Tj
+T*
+(is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how risk management changes the shape of the explanation. In some cases the emphasis is) Tj
+T*
+(on background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 21 0 R >>
+endobj
+21 0 obj
+<< /Length 4121 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Legal and Compliance Handbook, they often want examples,) Tj
+T*
+(exceptions, recommended checks, and the common misconceptions to avoid. Good coverage) Tj
+T*
+(answers these follow-ups in a calm, structured way so the content feels complete without) Tj
+T*
+(becoming hard to navigate. In many knowledge bases, the best content is the content that) Tj
+T*
+(can be chunked cleanly. Short descriptive paragraphs, explicit headings, and repeated) Tj
+T*
+(vocabulary help produce retrieval-friendly segments. This appendix therefore uses a) Tj
+T*
+(stable structure on purpose: it gives the system repeated opportunities to see the topic) Tj
+T*
+(name, the associated theme, and the kinds of explanatory phrases that usually belong) Tj
+T*
+(together. When the document is read by a human, the repetition still has a purpose. It) Tj
+T*
+(reinforces the central concept from different perspectives and makes it easier to skim) Tj
+T*
+(for a needed answer. When the document is read by a model, the repetition creates) Tj
+T*
+(stronger anchor points for semantic similarity and better grounding across nearby) Tj
+T*
+(passages. The overall principle is simple: describe the idea clearly, place it in a) Tj
+T*
+(realistic context, show how it is used, and explain the cautions that matter most. That) Tj
+T*
+(pattern works for technical topics, business topics, policy topics, and educational) Tj
+T*
+(topics alike. It is also one of the most reliable ways to build a dataset that feels) Tj
+T*
+(broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Legal and Compliance Handbook Practice Note 7) Tj
+T*
+T*
+(A strong treatment of Legal and Compliance Handbook should connect the core idea to) Tj
+T*
+(contracts, because readers need both the definition and the working context. In a) Tj
+T*
+(retrieval setting, this topic should explain what the concept is, why it matters, how it) Tj
+T*
+(is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how contracts changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 23 0 R >>
+endobj
+23 0 obj
+<< /Length 4116 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Legal and Compliance Handbook, they often want examples,) Tj
+T*
+(exceptions, recommended checks, and the common misconceptions to avoid. Good coverage) Tj
+T*
+(answers these follow-ups in a calm, structured way so the content feels complete without) Tj
+T*
+(becoming hard to navigate. In many knowledge bases, the best content is the content that) Tj
+T*
+(can be chunked cleanly. Short descriptive paragraphs, explicit headings, and repeated) Tj
+T*
+(vocabulary help produce retrieval-friendly segments. This appendix therefore uses a) Tj
+T*
+(stable structure on purpose: it gives the system repeated opportunities to see the topic) Tj
+T*
+(name, the associated theme, and the kinds of explanatory phrases that usually belong) Tj
+T*
+(together. When the document is read by a human, the repetition still has a purpose. It) Tj
+T*
+(reinforces the central concept from different perspectives and makes it easier to skim) Tj
+T*
+(for a needed answer. When the document is read by a model, the repetition creates) Tj
+T*
+(stronger anchor points for semantic similarity and better grounding across nearby) Tj
+T*
+(passages. The overall principle is simple: describe the idea clearly, place it in a) Tj
+T*
+(realistic context, show how it is used, and explain the cautions that matter most. That) Tj
+T*
+(pattern works for technical topics, business topics, policy topics, and educational) Tj
+T*
+(topics alike. It is also one of the most reliable ways to build a dataset that feels) Tj
+T*
+(broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Legal and Compliance Handbook Practice Note 8) Tj
+T*
+T*
+(A strong treatment of Legal and Compliance Handbook should connect the core idea to) Tj
+T*
+(privacy, because readers need both the definition and the working context. In a) Tj
+T*
+(retrieval setting, this topic should explain what the concept is, why it matters, how it) Tj
+T*
+(is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how privacy changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+ET
+endstream
+endobj
+24 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 25 0 R >>
+endobj
+25 0 obj
+<< /Length 4115 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Legal and Compliance Handbook, they often want examples,) Tj
+T*
+(exceptions, recommended checks, and the common misconceptions to avoid. Good coverage) Tj
+T*
+(answers these follow-ups in a calm, structured way so the content feels complete without) Tj
+T*
+(becoming hard to navigate. In many knowledge bases, the best content is the content that) Tj
+T*
+(can be chunked cleanly. Short descriptive paragraphs, explicit headings, and repeated) Tj
+T*
+(vocabulary help produce retrieval-friendly segments. This appendix therefore uses a) Tj
+T*
+(stable structure on purpose: it gives the system repeated opportunities to see the topic) Tj
+T*
+(name, the associated theme, and the kinds of explanatory phrases that usually belong) Tj
+T*
+(together. When the document is read by a human, the repetition still has a purpose. It) Tj
+T*
+(reinforces the central concept from different perspectives and makes it easier to skim) Tj
+T*
+(for a needed answer. When the document is read by a model, the repetition creates) Tj
+T*
+(stronger anchor points for semantic similarity and better grounding across nearby) Tj
+T*
+(passages. The overall principle is simple: describe the idea clearly, place it in a) Tj
+T*
+(realistic context, show how it is used, and explain the cautions that matter most. That) Tj
+T*
+(pattern works for technical topics, business topics, policy topics, and educational) Tj
+T*
+(topics alike. It is also one of the most reliable ways to build a dataset that feels) Tj
+T*
+(broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Legal and Compliance Handbook Practice Note 9) Tj
+T*
+T*
+(A strong treatment of Legal and Compliance Handbook should connect the core idea to) Tj
+T*
+(governance, because readers need both the definition and the working context. In a) Tj
+T*
+(retrieval setting, this topic should explain what the concept is, why it matters, how it) Tj
+T*
+(is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+ET
+endstream
+endobj
+26 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 27 0 R >>
+endobj
+27 0 obj
+<< /Length 4115 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how governance changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Legal and Compliance Handbook, they often want examples,) Tj
+T*
+(exceptions, recommended checks, and the common misconceptions to avoid. Good coverage) Tj
+T*
+(answers these follow-ups in a calm, structured way so the content feels complete without) Tj
+T*
+(becoming hard to navigate. In many knowledge bases, the best content is the content that) Tj
+T*
+(can be chunked cleanly. Short descriptive paragraphs, explicit headings, and repeated) Tj
+T*
+(vocabulary help produce retrieval-friendly segments. This appendix therefore uses a) Tj
+T*
+(stable structure on purpose: it gives the system repeated opportunities to see the topic) Tj
+T*
+(name, the associated theme, and the kinds of explanatory phrases that usually belong) Tj
+T*
+(together. When the document is read by a human, the repetition still has a purpose. It) Tj
+T*
+(reinforces the central concept from different perspectives and makes it easier to skim) Tj
+T*
+(for a needed answer. When the document is read by a model, the repetition creates) Tj
+T*
+(stronger anchor points for semantic similarity and better grounding across nearby) Tj
+T*
+(passages. The overall principle is simple: describe the idea clearly, place it in a) Tj
+T*
+(realistic context, show how it is used, and explain the cautions that matter most. That) Tj
+T*
+(pattern works for technical topics, business topics, policy topics, and educational) Tj
+T*
+(topics alike. It is also one of the most reliable ways to build a dataset that feels) Tj
+T*
+(broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Legal and Compliance Handbook Practice Note 10) Tj
+T*
+T*
+(A strong treatment of Legal and Compliance Handbook should connect the core idea to) Tj
+T*
+(audit, because readers need both the definition and the working context. In a retrieval) Tj
+T*
+(setting, this topic should explain what the concept is, why it matters, how it is used,) Tj
+T*
+(and what questions usually follow in real work. The best documents make the path from) Tj
+T*
+(overview to detail feel obvious, so the reader can move from general meaning to) Tj
+T*
+(practical application without losing the thread. When teams search this content, they) Tj
+T*
+ET
+endstream
+endobj
+28 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 29 0 R >>
+endobj
+29 0 obj
+<< /Length 3771 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how audit changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Legal and Compliance Handbook, they often want examples,) Tj
+T*
+(exceptions, recommended checks, and the common misconceptions to avoid. Good coverage) Tj
+T*
+(answers these follow-ups in a calm, structured way so the content feels complete without) Tj
+T*
+(becoming hard to navigate. In many knowledge bases, the best content is the content that) Tj
+T*
+(can be chunked cleanly. Short descriptive paragraphs, explicit headings, and repeated) Tj
+T*
+(vocabulary help produce retrieval-friendly segments. This appendix therefore uses a) Tj
+T*
+(stable structure on purpose: it gives the system repeated opportunities to see the topic) Tj
+T*
+(name, the associated theme, and the kinds of explanatory phrases that usually belong) Tj
+T*
+(together. When the document is read by a human, the repetition still has a purpose. It) Tj
+T*
+(reinforces the central concept from different perspectives and makes it easier to skim) Tj
+T*
+(for a needed answer. When the document is read by a model, the repetition creates) Tj
+T*
+(stronger anchor points for semantic similarity and better grounding across nearby) Tj
+T*
+(passages. The overall principle is simple: describe the idea clearly, place it in a) Tj
+T*
+(realistic context, show how it is used, and explain the cautions that matter most. That) Tj
+T*
+(pattern works for technical topics, business topics, policy topics, and educational) Tj
+T*
+(topics alike. It is also one of the most reliable ways to build a dataset that feels) Tj
+T*
+(broad enough for testing yet structured enough for retrieval.) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 30
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000204 00000 n 
+0000000274 00000 n 
+0000000400 00000 n 
+0000001648 00000 n 
+0000001774 00000 n 
+0000002855 00000 n 
+0000002981 00000 n 
+0000006562 00000 n 
+0000006690 00000 n 
+0000010850 00000 n 
+0000010978 00000 n 
+0000015144 00000 n 
+0000015272 00000 n 
+0000019434 00000 n 
+0000019562 00000 n 
+0000023729 00000 n 
+0000023857 00000 n 
+0000028033 00000 n 
+0000028161 00000 n 
+0000032335 00000 n 
+0000032463 00000 n 
+0000036632 00000 n 
+0000036760 00000 n 
+0000040928 00000 n 
+0000041056 00000 n 
+0000045224 00000 n 
+0000045352 00000 n 
+trailer
+<< /Size 30 /Root 1 0 R >>
+startxref
+49176
+%%EOF

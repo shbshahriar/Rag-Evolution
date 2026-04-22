@@ -1,0 +1,1261 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 13 /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1022 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(CUSTOMER SUPPORT AND TROUBLESHOOTING KNOWLEDGE BASE) Tj
+T*
+T*
+(Introduction) Tj
+T*
+T*
+(Customer support documentation helps users solve problems quickly and consistently. It) Tj
+T*
+(often includes FAQs, troubleshooting steps, known issues, and escalation procedures.) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(1. Common Support Topics) Tj
+T*
+T*
+(- Account access) Tj
+T*
+T*
+(- Password reset) Tj
+T*
+T*
+(- Billing questions) Tj
+T*
+T*
+(- Subscription changes) Tj
+T*
+T*
+(- Shipping status) Tj
+T*
+T*
+(- Device setup) Tj
+T*
+T*
+(- Error messages) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(2. Troubleshooting Method) Tj
+T*
+T*
+(A practical troubleshooting flow is:) Tj
+T*
+T*
+(1. Identify the issue 2. Check basic prerequisites 3. Reproduce the problem 4. Test one) Tj
+T*
+(change at a time 5. Confirm the fix 6. Escalate if needed) Tj
+T*
+T*
+(This method helps avoid unnecessary complexity.) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(3. Example FAQ) Tj
+T*
+T*
+(Why cannot I sign in?) Tj
+T*
+T*
+(Possible causes:) Tj
+T*
+T*
+(- Incorrect password) Tj
+T*
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 763 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(- Locked account) Tj
+T*
+T*
+(- Expired session) Tj
+T*
+T*
+(- Network issue) Tj
+T*
+T*
+(Suggested actions:) Tj
+T*
+T*
+(- Reset the password) Tj
+T*
+T*
+(- Clear browser cache) Tj
+T*
+T*
+(- Confirm account status) Tj
+T*
+T*
+(- Try another device) Tj
+T*
+T*
+(Why is my payment failing?) Tj
+T*
+T*
+(Possible causes:) Tj
+T*
+T*
+(- Card expired) Tj
+T*
+T*
+(- Insufficient funds) Tj
+T*
+T*
+(- Billing address mismatch) Tj
+T*
+T*
+(- Payment processor outage) Tj
+T*
+T*
+(Suggested actions:) Tj
+T*
+T*
+(- Update payment details) Tj
+T*
+T*
+(- Retry later) Tj
+T*
+T*
+(- Contact the bank) Tj
+T*
+T*
+(- Use another payment method) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(4. Escalation Rules) Tj
+T*
+T*
+(Escalate an issue when:) Tj
+T*
+T*
+(- The same fix fails repeatedly) Tj
+T*
+T*
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 2404 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(- Data appears missing or corrupted) Tj
+T*
+T*
+(- Security is involved) Tj
+T*
+T*
+(- The customer is blocked from a critical task) Tj
+T*
+T*
+(Good escalation notes include:) Tj
+T*
+T*
+(- Problem summary) Tj
+T*
+T*
+(- Steps already tried) Tj
+T*
+T*
+(- Relevant screenshots or logs) Tj
+T*
+T*
+(- Impact level) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(Conclusion) Tj
+T*
+T*
+(Support docs are ideal for RAG because users often ask the exact questions these) Tj
+T*
+(documents answer. They also support evaluation of procedural retrieval and step-by-step) Tj
+T*
+(response generation.) Tj
+T*
+T*
+(Extended Reference Appendix) Tj
+T*
+T*
+(Customer Support and Troubleshooting Practice Note 1) Tj
+T*
+T*
+(A strong treatment of Customer Support and Troubleshooting should connect the core idea) Tj
+T*
+(to account access, because readers need both the definition and the working context. In) Tj
+T*
+(a retrieval setting, this topic should explain what the concept is, why it matters, how) Tj
+T*
+(it is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how account access changes the shape of the explanation. In some cases the emphasis is) Tj
+T*
+(on background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 4154 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Customer Support and Troubleshooting, they often want) Tj
+T*
+(examples, exceptions, recommended checks, and the common misconceptions to avoid. Good) Tj
+T*
+(coverage answers these follow-ups in a calm, structured way so the content feels) Tj
+T*
+(complete without becoming hard to navigate. In many knowledge bases, the best content is) Tj
+T*
+(the content that can be chunked cleanly. Short descriptive paragraphs, explicit) Tj
+T*
+(headings, and repeated vocabulary help produce retrieval-friendly segments. This) Tj
+T*
+(appendix therefore uses a stable structure on purpose: it gives the system repeated) Tj
+T*
+(opportunities to see the topic name, the associated theme, and the kinds of explanatory) Tj
+T*
+(phrases that usually belong together. When the document is read by a human, the) Tj
+T*
+(repetition still has a purpose. It reinforces the central concept from different) Tj
+T*
+(perspectives and makes it easier to skim for a needed answer. When the document is read) Tj
+T*
+(by a model, the repetition creates stronger anchor points for semantic similarity and) Tj
+T*
+(better grounding across nearby passages. The overall principle is simple: describe the) Tj
+T*
+(idea clearly, place it in a realistic context, show how it is used, and explain the) Tj
+T*
+(cautions that matter most. That pattern works for technical topics, business topics,) Tj
+T*
+(policy topics, and educational topics alike. It is also one of the most reliable ways to) Tj
+T*
+(build a dataset that feels broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Customer Support and Troubleshooting Practice Note 2) Tj
+T*
+T*
+(A strong treatment of Customer Support and Troubleshooting should connect the core idea) Tj
+T*
+(to error diagnosis, because readers need both the definition and the working context. In) Tj
+T*
+(a retrieval setting, this topic should explain what the concept is, why it matters, how) Tj
+T*
+(it is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how error diagnosis changes the shape of the explanation. In some cases the emphasis is) Tj
+T*
+(on background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 4143 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Customer Support and Troubleshooting, they often want) Tj
+T*
+(examples, exceptions, recommended checks, and the common misconceptions to avoid. Good) Tj
+T*
+(coverage answers these follow-ups in a calm, structured way so the content feels) Tj
+T*
+(complete without becoming hard to navigate. In many knowledge bases, the best content is) Tj
+T*
+(the content that can be chunked cleanly. Short descriptive paragraphs, explicit) Tj
+T*
+(headings, and repeated vocabulary help produce retrieval-friendly segments. This) Tj
+T*
+(appendix therefore uses a stable structure on purpose: it gives the system repeated) Tj
+T*
+(opportunities to see the topic name, the associated theme, and the kinds of explanatory) Tj
+T*
+(phrases that usually belong together. When the document is read by a human, the) Tj
+T*
+(repetition still has a purpose. It reinforces the central concept from different) Tj
+T*
+(perspectives and makes it easier to skim for a needed answer. When the document is read) Tj
+T*
+(by a model, the repetition creates stronger anchor points for semantic similarity and) Tj
+T*
+(better grounding across nearby passages. The overall principle is simple: describe the) Tj
+T*
+(idea clearly, place it in a realistic context, show how it is used, and explain the) Tj
+T*
+(cautions that matter most. That pattern works for technical topics, business topics,) Tj
+T*
+(policy topics, and educational topics alike. It is also one of the most reliable ways to) Tj
+T*
+(build a dataset that feels broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Customer Support and Troubleshooting Practice Note 3) Tj
+T*
+T*
+(A strong treatment of Customer Support and Troubleshooting should connect the core idea) Tj
+T*
+(to escalation, because readers need both the definition and the working context. In a) Tj
+T*
+(retrieval setting, this topic should explain what the concept is, why it matters, how it) Tj
+T*
+(is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how escalation changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 15 0 R >>
+endobj
+15 0 obj
+<< /Length 4129 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Customer Support and Troubleshooting, they often want) Tj
+T*
+(examples, exceptions, recommended checks, and the common misconceptions to avoid. Good) Tj
+T*
+(coverage answers these follow-ups in a calm, structured way so the content feels) Tj
+T*
+(complete without becoming hard to navigate. In many knowledge bases, the best content is) Tj
+T*
+(the content that can be chunked cleanly. Short descriptive paragraphs, explicit) Tj
+T*
+(headings, and repeated vocabulary help produce retrieval-friendly segments. This) Tj
+T*
+(appendix therefore uses a stable structure on purpose: it gives the system repeated) Tj
+T*
+(opportunities to see the topic name, the associated theme, and the kinds of explanatory) Tj
+T*
+(phrases that usually belong together. When the document is read by a human, the) Tj
+T*
+(repetition still has a purpose. It reinforces the central concept from different) Tj
+T*
+(perspectives and makes it easier to skim for a needed answer. When the document is read) Tj
+T*
+(by a model, the repetition creates stronger anchor points for semantic similarity and) Tj
+T*
+(better grounding across nearby passages. The overall principle is simple: describe the) Tj
+T*
+(idea clearly, place it in a realistic context, show how it is used, and explain the) Tj
+T*
+(cautions that matter most. That pattern works for technical topics, business topics,) Tj
+T*
+(policy topics, and educational topics alike. It is also one of the most reliable ways to) Tj
+T*
+(build a dataset that feels broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Customer Support and Troubleshooting Practice Note 4) Tj
+T*
+T*
+(A strong treatment of Customer Support and Troubleshooting should connect the core idea) Tj
+T*
+(to FAQ, because readers need both the definition and the working context. In a retrieval) Tj
+T*
+(setting, this topic should explain what the concept is, why it matters, how it is used,) Tj
+T*
+(and what questions usually follow in real work. The best documents make the path from) Tj
+T*
+(overview to detail feel obvious, so the reader can move from general meaning to) Tj
+T*
+(practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 17 0 R >>
+endobj
+17 0 obj
+<< /Length 4127 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how FAQ changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Customer Support and Troubleshooting, they often want) Tj
+T*
+(examples, exceptions, recommended checks, and the common misconceptions to avoid. Good) Tj
+T*
+(coverage answers these follow-ups in a calm, structured way so the content feels) Tj
+T*
+(complete without becoming hard to navigate. In many knowledge bases, the best content is) Tj
+T*
+(the content that can be chunked cleanly. Short descriptive paragraphs, explicit) Tj
+T*
+(headings, and repeated vocabulary help produce retrieval-friendly segments. This) Tj
+T*
+(appendix therefore uses a stable structure on purpose: it gives the system repeated) Tj
+T*
+(opportunities to see the topic name, the associated theme, and the kinds of explanatory) Tj
+T*
+(phrases that usually belong together. When the document is read by a human, the) Tj
+T*
+(repetition still has a purpose. It reinforces the central concept from different) Tj
+T*
+(perspectives and makes it easier to skim for a needed answer. When the document is read) Tj
+T*
+(by a model, the repetition creates stronger anchor points for semantic similarity and) Tj
+T*
+(better grounding across nearby passages. The overall principle is simple: describe the) Tj
+T*
+(idea clearly, place it in a realistic context, show how it is used, and explain the) Tj
+T*
+(cautions that matter most. That pattern works for technical topics, business topics,) Tj
+T*
+(policy topics, and educational topics alike. It is also one of the most reliable ways to) Tj
+T*
+(build a dataset that feels broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Customer Support and Troubleshooting Practice Note 5) Tj
+T*
+T*
+(A strong treatment of Customer Support and Troubleshooting should connect the core idea) Tj
+T*
+(to reproduction steps, because readers need both the definition and the working context.) Tj
+T*
+(In a retrieval setting, this topic should explain what the concept is, why it matters,) Tj
+T*
+(how it is used, and what questions usually follow in real work. The best documents make) Tj
+T*
+(the path from overview to detail feel obvious, so the reader can move from general) Tj
+T*
+(meaning to practical application without losing the thread. When teams search this) Tj
+T*
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 19 0 R >>
+endobj
+19 0 obj
+<< /Length 4070 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(content, they usually want a mix of facts, examples, process notes, and cautionary) Tj
+T*
+(guidance. That means the document benefits from clear sectioning, consistent) Tj
+T*
+(terminology, and examples that map abstract ideas to concrete situations. For this) Tj
+T*
+(reason, it helps to describe the inputs, outputs, dependencies, common mistakes, and) Tj
+T*
+(evaluation criteria that define good use of the topic in practice. A useful way to) Tj
+T*
+(deepen the discussion is to describe how reproduction steps changes the shape of the) Tj
+T*
+(explanation. In some cases the emphasis is on background knowledge, while in others the) Tj
+T*
+(emphasis is on execution, measurement, governance, or troubleshooting. A balanced) Tj
+T*
+(reference explains both the concept and the decision points around it, so a reader can) Tj
+T*
+(understand not just what to do, but why the step is sensible. For dataset design, this) Tj
+T*
+(kind of section is valuable because it creates many semantically related passages. Those) Tj
+T*
+(passages help a retrieval system learn how the topic is phrased across definitions,) Tj
+T*
+(implementation details, examples, and caveats. If a model can answer questions about the) Tj
+T*
+(same idea from different angles, it is usually better prepared for real user questions) Tj
+T*
+(that are short, messy, or incomplete. It also helps to include operational guidance.) Tj
+T*
+(Readers often need to know how the topic appears in daily work, what tools or processes) Tj
+T*
+(are typically involved, and where the main failure points are. Describing those patterns) Tj
+T*
+(makes the document more useful than a bare glossary, because it supports both direct) Tj
+T*
+(lookup and explanatory answers. Another important angle is comparison. A strong) Tj
+T*
+(reference can compare one approach with another, show when a method is appropriate, and) Tj
+T*
+(identify tradeoffs that affect choice. That comparative framing makes the document) Tj
+T*
+(richer for retrieval because a single question may ask for differences, advantages, or) Tj
+T*
+(the conditions under which one option should be preferred over another. A practical) Tj
+T*
+(document also anticipates follow-up questions. After a reader learns the basics of) Tj
+T*
+(Customer Support and Troubleshooting, they often want examples, exceptions, recommended) Tj
+T*
+(checks, and the common misconceptions to avoid. Good coverage answers these follow-ups) Tj
+T*
+(in a calm, structured way so the content feels complete without becoming hard to) Tj
+T*
+(navigate. In many knowledge bases, the best content is the content that can be chunked) Tj
+T*
+(cleanly. Short descriptive paragraphs, explicit headings, and repeated vocabulary help) Tj
+T*
+(produce retrieval-friendly segments. This appendix therefore uses a stable structure on) Tj
+T*
+(purpose: it gives the system repeated opportunities to see the topic name, the) Tj
+T*
+(associated theme, and the kinds of explanatory phrases that usually belong together.) Tj
+T*
+(When the document is read by a human, the repetition still has a purpose. It reinforces) Tj
+T*
+(the central concept from different perspectives and makes it easier to skim for a needed) Tj
+T*
+(answer. When the document is read by a model, the repetition creates stronger anchor) Tj
+T*
+(points for semantic similarity and better grounding across nearby passages. The overall) Tj
+T*
+(principle is simple: describe the idea clearly, place it in a realistic context, show) Tj
+T*
+(how it is used, and explain the cautions that matter most. That pattern works for) Tj
+T*
+(technical topics, business topics, policy topics, and educational topics alike. It is) Tj
+T*
+(also one of the most reliable ways to build a dataset that feels broad enough for) Tj
+T*
+(testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Customer Support and Troubleshooting Practice Note 6) Tj
+T*
+T*
+(A strong treatment of Customer Support and Troubleshooting should connect the core idea) Tj
+T*
+(to resolution, because readers need both the definition and the working context. In a) Tj
+T*
+ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 21 0 R >>
+endobj
+21 0 obj
+<< /Length 4229 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(retrieval setting, this topic should explain what the concept is, why it matters, how it) Tj
+T*
+(is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how resolution changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Customer Support and Troubleshooting, they often want) Tj
+T*
+(examples, exceptions, recommended checks, and the common misconceptions to avoid. Good) Tj
+T*
+(coverage answers these follow-ups in a calm, structured way so the content feels) Tj
+T*
+(complete without becoming hard to navigate. In many knowledge bases, the best content is) Tj
+T*
+(the content that can be chunked cleanly. Short descriptive paragraphs, explicit) Tj
+T*
+(headings, and repeated vocabulary help produce retrieval-friendly segments. This) Tj
+T*
+(appendix therefore uses a stable structure on purpose: it gives the system repeated) Tj
+T*
+(opportunities to see the topic name, the associated theme, and the kinds of explanatory) Tj
+T*
+(phrases that usually belong together. When the document is read by a human, the) Tj
+T*
+(repetition still has a purpose. It reinforces the central concept from different) Tj
+T*
+(perspectives and makes it easier to skim for a needed answer. When the document is read) Tj
+T*
+(by a model, the repetition creates stronger anchor points for semantic similarity and) Tj
+T*
+(better grounding across nearby passages. The overall principle is simple: describe the) Tj
+T*
+(idea clearly, place it in a realistic context, show how it is used, and explain the) Tj
+T*
+(cautions that matter most. That pattern works for technical topics, business topics,) Tj
+T*
+(policy topics, and educational topics alike. It is also one of the most reliable ways to) Tj
+T*
+(build a dataset that feels broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Customer Support and Troubleshooting Practice Note 7) Tj
+T*
+ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 23 0 R >>
+endobj
+23 0 obj
+<< /Length 4269 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+T*
+(A strong treatment of Customer Support and Troubleshooting should connect the core idea) Tj
+T*
+(to account access, because readers need both the definition and the working context. In) Tj
+T*
+(a retrieval setting, this topic should explain what the concept is, why it matters, how) Tj
+T*
+(it is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how account access changes the shape of the explanation. In some cases the emphasis is) Tj
+T*
+(on background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Customer Support and Troubleshooting, they often want) Tj
+T*
+(examples, exceptions, recommended checks, and the common misconceptions to avoid. Good) Tj
+T*
+(coverage answers these follow-ups in a calm, structured way so the content feels) Tj
+T*
+(complete without becoming hard to navigate. In many knowledge bases, the best content is) Tj
+T*
+(the content that can be chunked cleanly. Short descriptive paragraphs, explicit) Tj
+T*
+(headings, and repeated vocabulary help produce retrieval-friendly segments. This) Tj
+T*
+(appendix therefore uses a stable structure on purpose: it gives the system repeated) Tj
+T*
+(opportunities to see the topic name, the associated theme, and the kinds of explanatory) Tj
+T*
+(phrases that usually belong together. When the document is read by a human, the) Tj
+T*
+(repetition still has a purpose. It reinforces the central concept from different) Tj
+T*
+(perspectives and makes it easier to skim for a needed answer. When the document is read) Tj
+T*
+(by a model, the repetition creates stronger anchor points for semantic similarity and) Tj
+T*
+(better grounding across nearby passages. The overall principle is simple: describe the) Tj
+T*
+(idea clearly, place it in a realistic context, show how it is used, and explain the) Tj
+T*
+(cautions that matter most. That pattern works for technical topics, business topics,) Tj
+T*
+(policy topics, and educational topics alike. It is also one of the most reliable ways to) Tj
+T*
+ET
+endstream
+endobj
+24 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 25 0 R >>
+endobj
+25 0 obj
+<< /Length 4150 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(build a dataset that feels broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Customer Support and Troubleshooting Practice Note 8) Tj
+T*
+T*
+(A strong treatment of Customer Support and Troubleshooting should connect the core idea) Tj
+T*
+(to error diagnosis, because readers need both the definition and the working context. In) Tj
+T*
+(a retrieval setting, this topic should explain what the concept is, why it matters, how) Tj
+T*
+(it is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how error diagnosis changes the shape of the explanation. In some cases the emphasis is) Tj
+T*
+(on background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Customer Support and Troubleshooting, they often want) Tj
+T*
+(examples, exceptions, recommended checks, and the common misconceptions to avoid. Good) Tj
+T*
+(coverage answers these follow-ups in a calm, structured way so the content feels) Tj
+T*
+(complete without becoming hard to navigate. In many knowledge bases, the best content is) Tj
+T*
+(the content that can be chunked cleanly. Short descriptive paragraphs, explicit) Tj
+T*
+(headings, and repeated vocabulary help produce retrieval-friendly segments. This) Tj
+T*
+(appendix therefore uses a stable structure on purpose: it gives the system repeated) Tj
+T*
+(opportunities to see the topic name, the associated theme, and the kinds of explanatory) Tj
+T*
+(phrases that usually belong together. When the document is read by a human, the) Tj
+T*
+(repetition still has a purpose. It reinforces the central concept from different) Tj
+T*
+(perspectives and makes it easier to skim for a needed answer. When the document is read) Tj
+T*
+(by a model, the repetition creates stronger anchor points for semantic similarity and) Tj
+T*
+(better grounding across nearby passages. The overall principle is simple: describe the) Tj
+T*
+ET
+endstream
+endobj
+26 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 27 0 R >>
+endobj
+27 0 obj
+<< /Length 4137 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(idea clearly, place it in a realistic context, show how it is used, and explain the) Tj
+T*
+(cautions that matter most. That pattern works for technical topics, business topics,) Tj
+T*
+(policy topics, and educational topics alike. It is also one of the most reliable ways to) Tj
+T*
+(build a dataset that feels broad enough for testing yet structured enough for retrieval.) Tj
+T*
+T*
+(Customer Support and Troubleshooting Practice Note 9) Tj
+T*
+T*
+(A strong treatment of Customer Support and Troubleshooting should connect the core idea) Tj
+T*
+(to escalation, because readers need both the definition and the working context. In a) Tj
+T*
+(retrieval setting, this topic should explain what the concept is, why it matters, how it) Tj
+T*
+(is used, and what questions usually follow in real work. The best documents make the) Tj
+T*
+(path from overview to detail feel obvious, so the reader can move from general meaning) Tj
+T*
+(to practical application without losing the thread. When teams search this content, they) Tj
+T*
+(usually want a mix of facts, examples, process notes, and cautionary guidance. That) Tj
+T*
+(means the document benefits from clear sectioning, consistent terminology, and examples) Tj
+T*
+(that map abstract ideas to concrete situations. For this reason, it helps to describe) Tj
+T*
+(the inputs, outputs, dependencies, common mistakes, and evaluation criteria that define) Tj
+T*
+(good use of the topic in practice. A useful way to deepen the discussion is to describe) Tj
+T*
+(how escalation changes the shape of the explanation. In some cases the emphasis is on) Tj
+T*
+(background knowledge, while in others the emphasis is on execution, measurement,) Tj
+T*
+(governance, or troubleshooting. A balanced reference explains both the concept and the) Tj
+T*
+(decision points around it, so a reader can understand not just what to do, but why the) Tj
+T*
+(step is sensible. For dataset design, this kind of section is valuable because it) Tj
+T*
+(creates many semantically related passages. Those passages help a retrieval system learn) Tj
+T*
+(how the topic is phrased across definitions, implementation details, examples, and) Tj
+T*
+(caveats. If a model can answer questions about the same idea from different angles, it) Tj
+T*
+(is usually better prepared for real user questions that are short, messy, or incomplete.) Tj
+T*
+(It also helps to include operational guidance. Readers often need to know how the topic) Tj
+T*
+(appears in daily work, what tools or processes are typically involved, and where the) Tj
+T*
+(main failure points are. Describing those patterns makes the document more useful than a) Tj
+T*
+(bare glossary, because it supports both direct lookup and explanatory answers. Another) Tj
+T*
+(important angle is comparison. A strong reference can compare one approach with another,) Tj
+T*
+(show when a method is appropriate, and identify tradeoffs that affect choice. That) Tj
+T*
+(comparative framing makes the document richer for retrieval because a single question) Tj
+T*
+(may ask for differences, advantages, or the conditions under which one option should be) Tj
+T*
+(preferred over another. A practical document also anticipates follow-up questions. After) Tj
+T*
+(a reader learns the basics of Customer Support and Troubleshooting, they often want) Tj
+T*
+(examples, exceptions, recommended checks, and the common misconceptions to avoid. Good) Tj
+T*
+(coverage answers these follow-ups in a calm, structured way so the content feels) Tj
+T*
+(complete without becoming hard to navigate. In many knowledge bases, the best content is) Tj
+T*
+(the content that can be chunked cleanly. Short descriptive paragraphs, explicit) Tj
+T*
+(headings, and repeated vocabulary help produce retrieval-friendly segments. This) Tj
+T*
+(appendix therefore uses a stable structure on purpose: it gives the system repeated) Tj
+T*
+(opportunities to see the topic name, the associated theme, and the kinds of explanatory) Tj
+T*
+(phrases that usually belong together. When the document is read by a human, the) Tj
+T*
+(repetition still has a purpose. It reinforces the central concept from different) Tj
+T*
+ET
+endstream
+endobj
+28 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 29 0 R >>
+endobj
+29 0 obj
+<< /Length 695 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(perspectives and makes it easier to skim for a needed answer. When the document is read) Tj
+T*
+(by a model, the repetition creates stronger anchor points for semantic similarity and) Tj
+T*
+(better grounding across nearby passages. The overall principle is simple: describe the) Tj
+T*
+(idea clearly, place it in a realistic context, show how it is used, and explain the) Tj
+T*
+(cautions that matter most. That pattern works for technical topics, business topics,) Tj
+T*
+(policy topics, and educational topics alike. It is also one of the most reliable ways to) Tj
+T*
+(build a dataset that feels broad enough for testing yet structured enough for retrieval.) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 30
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000204 00000 n 
+0000000274 00000 n 
+0000000400 00000 n 
+0000001474 00000 n 
+0000001600 00000 n 
+0000002414 00000 n 
+0000002540 00000 n 
+0000004996 00000 n 
+0000005124 00000 n 
+0000009331 00000 n 
+0000009459 00000 n 
+0000013655 00000 n 
+0000013783 00000 n 
+0000017965 00000 n 
+0000018093 00000 n 
+0000022273 00000 n 
+0000022401 00000 n 
+0000026524 00000 n 
+0000026652 00000 n 
+0000030934 00000 n 
+0000031062 00000 n 
+0000035384 00000 n 
+0000035512 00000 n 
+0000039715 00000 n 
+0000039843 00000 n 
+0000044033 00000 n 
+0000044161 00000 n 
+trailer
+<< /Size 30 /Root 1 0 R >>
+startxref
+44908
+%%EOF

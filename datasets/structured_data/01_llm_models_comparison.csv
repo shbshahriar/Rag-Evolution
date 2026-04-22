@@ -1,0 +1,31 @@
+model_name,organization,release_year,parameters_billions,context_window_tokens,modalities,open_source,primary_use_case,benchmark_mmlu,benchmark_humaneval,api_available,license_type,training_data_cutoff,notable_features
+GPT-4,OpenAI,2023,unknown,128000,text+image,No,General purpose,86.4,67.0,Yes,Proprietary,Apr 2023,Multimodal reasoning and coding
+GPT-4o,OpenAI,2024,unknown,128000,text+image+audio,No,General purpose,88.7,90.2,Yes,Proprietary,Oct 2023,Real-time voice and vision
+GPT-3.5-turbo,OpenAI,2022,175,16000,text,No,Chatbot and coding,70.0,48.1,Yes,Proprietary,Sep 2021,Cost-efficient workhorse
+Claude 3 Opus,Anthropic,2024,unknown,200000,text+image,No,Complex reasoning,86.8,84.9,Yes,Proprietary,Aug 2023,Longest context with strong reasoning
+Claude 3 Sonnet,Anthropic,2024,unknown,200000,text+image,No,Balanced performance,79.0,73.0,Yes,Proprietary,Aug 2023,Balance of speed and intelligence
+Claude 3 Haiku,Anthropic,2024,unknown,200000,text+image,No,Fast tasks,75.2,75.9,Yes,Proprietary,Aug 2023,Fastest Claude model
+Claude 3.5 Sonnet,Anthropic,2024,unknown,200000,text+image,No,General purpose,88.7,92.0,Yes,Proprietary,Apr 2024,Best coding performance
+Gemini Ultra,Google,2023,unknown,32000,text+image+audio+video,No,Research and complex tasks,90.0,74.4,Yes,Proprietary,Unknown,First to surpass human expert on MMLU
+Gemini Pro,Google,2023,unknown,32000,text+image,No,General purpose,71.8,67.7,Yes,Proprietary,Unknown,Widely deployed in Google products
+Gemini 1.5 Pro,Google,2024,unknown,1000000,text+image+audio+video,No,Long context,81.9,71.9,Yes,Proprietary,Nov 2023,1M token context window
+LLaMA 2 7B,Meta,2023,7,4096,text,Yes,Research and fine-tuning,45.3,12.8,No,Custom open,Jul 2023,Popular open-source small model
+LLaMA 2 13B,Meta,2023,13,4096,text,Yes,Research and fine-tuning,54.8,18.3,No,Custom open,Jul 2023,Improved reasoning over 7B
+LLaMA 2 70B,Meta,2023,70,4096,text,Yes,Research and production,68.9,29.9,No,Custom open,Jul 2023,Most capable open LLaMA 2
+LLaMA 3 8B,Meta,2024,8,8192,text,Yes,General purpose,66.6,62.2,No,Custom open,Dec 2023,Major leap in open-source quality
+LLaMA 3 70B,Meta,2024,70,8192,text,Yes,General purpose,82.0,81.7,No,Custom open,Dec 2023,Competitive with closed models
+Mistral 7B,Mistral AI,2023,7,8192,text,Yes,Efficient deployment,60.1,30.5,Yes,Apache 2.0,Unknown,Sliding window attention
+Mixtral 8x7B,Mistral AI,2023,47,32000,text,Yes,General purpose,70.6,40.2,Yes,Apache 2.0,Unknown,Mixture of experts architecture
+Mixtral 8x22B,Mistral AI,2024,141,65000,text,Yes,General purpose,77.8,45.1,Yes,Apache 2.0,Unknown,Large open-source MoE model
+Falcon 180B,TII,2023,180,2048,text,Yes,Research,70.4,unknown,No,Custom open,Unknown,Largest open-source model at release
+Command R+,Cohere,2024,104,128000,text,No,RAG and enterprise,unknown,unknown,Yes,Proprietary,Mar 2024,Optimized for retrieval augmented generation
+Phi-3 Mini,Microsoft,2024,3.8,128000,text,Yes,Edge deployment,70.9,unknown,Yes,MIT,Oct 2023,Exceptional small model performance
+Phi-3 Medium,Microsoft,2024,14,128000,text,Yes,Efficient reasoning,78.0,unknown,Yes,MIT,Oct 2023,Strong reasoning in small package
+Qwen2 72B,Alibaba,2024,72,131072,text,Yes,Multilingual,84.2,64.6,Yes,Custom open,Unknown,Strong multilingual especially Chinese
+Yi-34B,01.AI,2023,34,200000,text,Yes,General purpose,76.3,unknown,Yes,Apache 2.0,Unknown,Extremely long context window
+Deepseek V2,DeepSeek,2024,236,128000,text,Yes,Efficient MoE,78.5,unknown,Yes,Custom open,Unknown,Cost-efficient mixture of experts
+Grok-1,xAI,2024,314,8192,text,Yes,General purpose,73.0,63.2,Yes,Apache 2.0,Unknown,Open-sourced by Elon Musk's xAI
+Solar 10.7B,Upstage,2023,10.7,4096,text,Yes,Instruction following,66.0,unknown,Yes,Apache 2.0,Unknown,Depth upscaling technique
+Orca 2,Microsoft,2023,13,4096,text,Yes,Reasoning,unknown,unknown,No,Microsoft Research,Unknown,Trained with reasoning traces
+WizardCoder,WizardLM,2023,34,8192,text,Yes,Code generation,unknown,73.2,No,Custom open,Unknown,Specialized for coding tasks
+StarCoder2 15B,BigCode,2024,15,16384,text,Yes,Code generation,unknown,46.0,Yes,BigCode Open RAIL,unknown,Trained on 600+ programming languages

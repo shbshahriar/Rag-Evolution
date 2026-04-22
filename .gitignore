@@ -1,10 +1,88 @@
-# Python-generated files
+# ── Python ────────────────────────────────────────────────────────────────────
 __pycache__/
 *.py[oc]
+*.pyo
+*.pyd
 build/
 dist/
 wheels/
-*.egg-info
+*.egg-info/
+*.egg
+.eggs/
+MANIFEST
 
-# Virtual environments
-.venv
+# ── Virtual Environments ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.env.local
+.env.*.local
+
+# ── Environment / Secrets ─────────────────────────────────────────────────────
+.env
+!.env.example
+*.key
+*.pem
+secrets.yaml
+secrets.json
+
+# ── Jupyter Notebooks ─────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Vector Databases / Indexes (large binary files) ───────────────────────────
+chroma_db/
+faiss_index/
+qdrant_storage/
+*.faiss
+*.index
+*.bin
+*.annoy
+
+# ── LangChain / LangSmith Cache ───────────────────────────────────────────────
+.langchain.db
+langchain_cache/
+.cache/
+
+# ── ML / Data ─────────────────────────────────────────────────────────────────
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.parquet
+*.arrow
+*.npy
+*.npz
+models/
+checkpoints/
+
+# ── Logs & Telemetry ──────────────────────────────────────────────────────────
+logs/
+*.log
+*.out
+mlruns/
+wandb/
+
+# ── OS / Editor ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ── Testing & Coverage ────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+.tox/
+
+# ── Package Managers ──────────────────────────────────────────────────────────
+node_modules/
+.npm/
